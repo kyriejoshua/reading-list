@@ -1,6 +1,4 @@
-# reading-list
-[![](https://img.shields.io/badge/books-@read-orange.svg)](https://github.com/kyriejoshua/readling-list)
-[![](https://img.shields.io/badge/origin-@douban-brightgreen.svg)](https://www.douban.com/)
+# Reading-List &middot; [![](https://img.shields.io/badge/books-@read-orange.svg)](https://github.com/kyriejoshua/readling-list) [![](https://img.shields.io/badge/origin-@douban-brightgreen.svg)](https://www.douban.com/)
 
 >The books I have read.
 
