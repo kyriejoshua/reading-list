@@ -17,6 +17,8 @@
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" style="" src='https://img3.doubanio.com/view/subject/l/public/s29778380.jpg'/>全书无不流露出淡淡的悲伤的氛围，渐渐悲伤越来越浓，到最后倾泻而出，却又最终融入大海。这里既不交代背景，也不探索其他，仅仅从回忆里的点点滴滴，慢慢汇编成一个可怕又无可奈何的世界。全书行文流畅，言语细腻。对人的内心及形象以非常细腻的笔触去描绘，以让读者感知及感同身受。唯一略有不快的是叙事时总喜欢留坑，然后一个个填平。但总给人一种错乱之感。几年前看过一部同名电影，当时没看出个一二三四，没想到其实就是它的改编。以后找机会再看一遍。除此之外，更喜欢《别让我走》这个译名。《莫失莫忘》带来的文艺感稍显刻意。</div>
 
+<br/>
+
 * 部分摘录
 
   > 然而，终究有些事必须得接受进来。必须得进来，因为等到这样一个时刻终于到来的时候，有一部分的你早就在等待了。
@@ -36,6 +38,7 @@
 2.[《大教堂》](https://book.douban.com/subject/26857367/) - 2019.03.10 [*@雷蒙德·卡佛 Raymond Carver*](https://book.douban.com/author/320790/)
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" style="" src='https://img3.doubanio.com/view/subject/l/public/s29108441.jpg'/>一如既往的喜欢。而且相比起作者的小说，自己更倾向于他的杂文，给人一种无比精准有力的感受。</div>
+<br/>
 <br/>
 <br/>
 <br/>
