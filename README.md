@@ -36,6 +36,12 @@
 2.[《大教堂》](https://book.douban.com/subject/26857367/) - 2019.03.10 [*@雷蒙德·卡佛 Raymond Carver*](https://book.douban.com/author/320790/)
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" style="" src='https://img3.doubanio.com/view/subject/l/public/s29108441.jpg'/>一如既往的喜欢。而且相比起作者的小说，自己更倾向于他的杂文，给人一种无比精准有力的感受。</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 * 部分摘录
 
