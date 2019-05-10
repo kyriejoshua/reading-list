@@ -62,6 +62,8 @@
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" style="" src='https://img3.doubanio.com/view/subject/l/public/s28831415.jpg'/>种种可能大约是我最喜爱的诗，暂时我不愿加上之一。诗里的自由随性，浪漫洒脱，种种偏爱的输出，不仅仅表达了自己的价值观世界观，更是传递了一种精神上的恬静美好。这并不仅是常规的、世俗的那种美好，而是带一点点个人癖好和微妙的缺陷的那种美好。也读过聂鲁达，但他的情诗或许太过露骨，反而我却不喜欢。而这本书里的几乎大部分诗，我都想一一摘录。都是喜欢的。</div>
 <br/>
 <br/>
+<br/>
+<br/>
 
 * 部分摘录
 
