@@ -328,6 +328,13 @@
   >
   > 在艺术上，好的动机一点价值也没有。所有不好的艺术都是好的动机造成的。
 
+### 技术
+
+* [Javascript 高级程序设计](https://book.douban.com/subject/10546125/) - 阅读中 2019.06
+
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" style="" src='https://img3.doubanio.com/view/subject/l/public/s8958650.jpg'/></div>
+<br/>
+
 <details>
 <summary>2019 阅读计划</summary>
 
