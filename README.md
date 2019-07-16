@@ -379,7 +379,7 @@
 
 6. [《在切瑟尔海滩上》](https://book.douban.com/subject/30159097/) - 2019.06.24 [*@伊恩·麦克尤恩 Ian McEwan*](https://book.douban.com/author/100999/)
 
-<div style="overflow:hidden;padding:10px;"><img align="left" width="135" src='https://img1.doubanio.com/view/subject/l/public/s29767358.jpg'/>直接以性开篇，也不同于寻常小说，开篇便点题亮明主旨。不同于寻常的小说，结局是悲剧的非主流方式也正投我所好。不知该对译文作何评价，因为据译文作者所言，麦克尤恩是英文作者里的大师。个人而言，翻译可能稍欠水准。通读下来有些言语并不那么流畅，或者说，是因为原作太过优秀，相比之下稍显瑕疵。除此之外，文学史上最著名的一根阴毛，也是有趣的。</div>
+<div style="overflow:hidden;padding:10px;"><img align="left" width="135" src='https://img1.doubanio.com/view/subject/l/public/s29767358.jpg'/>直接以性开篇，不同于寻常小说，开篇便点题、亮明主旨，不同于寻常的小说，结局是悲剧的非主流方式也正投我所好。不知该对译文作何评价，因为据译文作者所言，麦克尤恩是英文作者里的大师。个人感受而言，翻译可能稍欠水准。通读下来有些言语并不那么流畅，或者说，是因为原作太过优秀，相比之下稍显瑕疵。除此之外，文学史上最著名的一根阴毛，也是有趣的。</div>
 <br/>
 <br/>
 <br/>
