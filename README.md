@@ -56,11 +56,19 @@
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/l/public/s8958650.jpg'/></div>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### 杂志
 <hr/>
 
 * 《三联生活周刊》-武汉现场 2020.02.23
+
+  > “灾难并不是死了两万人或八万人这样一件事，而是死了一个人这件事，发生了两万次。” —— 北野武
 
 <br/>
 <br/>
