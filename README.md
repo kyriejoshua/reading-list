@@ -17,8 +17,9 @@
 
 1.[《人的失格》](https://book.douban.com/subject/30136065/) - 2020.01.11 [*@太宰治*](https://book.douban.com/author/4526460/)
 
-<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/l/public/s29817561.jpg'/>其实这是本类似小人书的玩意儿。曾一直以为人间失格是一篇宏伟的长篇大作，讲述某人大起大落的一生，没曾想遇到了这样简略的一个版本，应当是近期新出的，林少华的译本。对故事本身不知道从何说起，就只觉得在某些字里行间，看到了自己的影子。或多或少有些相似。但或许别的人读了，也会这样以为。因为每个人眼中看到的，理解的，不尽相同。</div>
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/l/public/s29817561.jpg'/>其实这是本类似小人书的玩意儿。曾一直以为人间失格是一篇宏伟的长篇大作，讲述某人大起大落的一生，没曾想遇到了这样简略的一个版本，而且应当是近期新出的，林少华的译本。对故事本身不知道从何说起，就只觉得在某些字里行间，看到了自己的影子。或多或少有些相似。但或许别的人读了，也会这样以为。因为每个人眼中看到的，理解的，不尽相同。</div>
 
+<br/>
 <br/>
 <br/>
 <br/>
@@ -30,6 +31,10 @@
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img9.doubanio.com/view/subject/l/public/s28045305.jpg'/>亲密关系</div>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -51,7 +56,7 @@
 
 2.[《如何正确吵架》](https://book.douban.com/subject/30416747/) - 2020.05.15 *@ [美] 朱迪斯·莱特 / 鲍勃·莱特*
 
-<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s29962391.jpg'/>如何正确吵架</div>
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s29962391.jpg'/>“爱并不意味着我们永远是紧密相连的。” 但拥有爱，我们就有着永远紧密相连的可能性。</div>
 
 <br/>
 <br/>
