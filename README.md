@@ -120,11 +120,9 @@
 ### 技术
 <hr/>
 
-1.[《Javascript 高级程序设计》](https://book.douban.com/subject/10546125/) - 阅读中 2019.06
+1.[《Javascript 高级程序设计》](https://book.douban.com/subject/10546125/) - 2019.06 - 2020.11.04
 
-<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/l/public/s8958650.jpg'/></div>
-<br/>
-<br/>
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img3.doubanio.com/view/subject/l/public/s8958650.jpg'/>这是一本每一位 js 开发者都应该阅读并参考的书，尤其对于初学者，它有着显著的指导意义。哪怕是在当下 2020 年，书里面的许多指导思想也并不过时。而对于我自己来说，是应该早些阅读的。</div>
 <br/>
 <br/>
 <br/>
