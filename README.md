@@ -53,6 +53,20 @@
   >
   > 十年以前，她几乎站在相同的地点，也许就是某种像这样圆满完整的感觉，使她对自己说，她一定是爱上了这块地方。爱有一千种形态，也许，有一些恋爱者，他们的天才就在于能从各种事物中选择撷取其要素，并且把它们归纳在一起，从而赋予它们一种它们在现实生活中所没有的完整性，他们把某种景象或者（现已分散消逝的）人们的邂逅相逢组合成一个紧凑结实的球体，思想在它上面徘徊，爱情在它上面嬉戏。
 
+
+3.[《没有女人的男人们》](https://book.douban.com/subject/26286208/) - 2020.12.30 [*@村上春树*](https://book.douban.com/author/4502361/)
+
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;">
+  <img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s28004680.jpg'/>
+  一如既往地村上风格，从一个没来头地地方开始，然后又在一个没有去处地地方结束。几乎所有的短篇都围绕着失去女人的男人们。消失或死亡，重逢或再见，以各种形式出现过在男人的生命里。她们在身边的时候，男人快活，却忽视她们。她们消失的时候，男人沉默，感受孤独，却又引人深思。2020 阅读的最后一本书。总算是在结束前看完了。
+</div>
+
+* TODO 摘录
+
+<br/>
+<br/>
+<br/>
+
 ### 心理
 <hr/>
 
@@ -151,7 +165,7 @@
 ### 传记
 <hr/>
 
-* [《史蒂夫·乔布斯传》](https://book.douban.com/subject/25810506/) - 2020.12.12
+1. [《史蒂夫·乔布斯传》](https://book.douban.com/subject/25810506/) - 2020.12.12
 
 <div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;">
   <img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s27207923.jpg'/>
@@ -187,8 +201,6 @@
   >
   > 只有那些疯狂到以为自己能够改变世界的人，才能真正改变世界。
 
-<br/>
-<br/>
 <br/>
 
 <details>
