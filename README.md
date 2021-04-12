@@ -1,3 +1,10 @@
+<!--
+ * @Author: changri
+ * @Description: TODO
+ * @Date: 2018-10-29 21:30:15
+ * @LastEditors: changri
+ * @LastEditTime: 2021-04-12 17:42:42
+-->
 # Reading-List &middot; [![](https://img.shields.io/badge/books-@read-orange.svg)](https://github.com/kyriejoshua/readling-list) [![](https://img.shields.io/badge/origin-@douban-brightgreen.svg)](https://www.douban.com/)
 
 > The books I have read.
@@ -63,9 +70,9 @@
 <br/>
 <br/>
 
-2.[《SQL基础教程》(第2版)](https://book.douban.com/subject/27055712/) - 2020.01.16 阅读中
+2.[《SQL基础教程》(第2版)](https://book.douban.com/subject/27055712/) - 2021.01.16 - 2021.04.06
 
-<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s29524313.jpg'/>TODO</div>
+<div style="overflow:hidden;box-shadow:0 6px 8px #ddd;border-radius:10px;padding:10px;"><img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s29524313.jpg'/>参见实战演练</div>
 <br/>
 <br/>
 <br/>
@@ -74,14 +81,14 @@
 <br/>
 <br/>
 
-* 仓库地址
+* [仓库地址](https://github.com/kyriejoshua/learn-sql/)
 
 <details>
 <summary>2021 阅读计划 TODO</summary>
 
 * 列一些书单，想到再补充。
   * - [ ] 计算机基础等
-  * - [ ] SQL基础教程
+  * - [x] SQL基础教程
   * - [ ] JavaScript 高程及设计模式 第一季度核心阅读内容
   * …
 
