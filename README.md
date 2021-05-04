@@ -1,10 +1,4 @@
-<!--
- * @Author: changri
- * @Description: TODO
- * @Date: 2018-10-29 21:30:15
- * @LastEditors: changri
- * @LastEditTime: 2021-04-12 17:42:42
--->
+
 # Reading-List &middot; [![](https://img.shields.io/badge/books-@read-orange.svg)](https://github.com/kyriejoshua/readling-list) [![](https://img.shields.io/badge/origin-@douban-brightgreen.svg)](https://www.douban.com/)
 
 > The books I have read.
@@ -99,3 +93,4 @@
 ### [2018](2018.md)
 ### [2017](2017.md)
 ### [2016](2016.md)
+### [STAR](star.md)
