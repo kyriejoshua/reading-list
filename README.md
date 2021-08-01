@@ -87,12 +87,13 @@
 * [视频学习地址](https://www.bilibili.com/video/BV1EW411u7th)
 
 <details>
-<summary>2021 阅读计划 TODO</summary>
+<summary>2021 阅读计划</summary>
 
-* 列一些书单，想到再补充。
-  * - [ ] 计算机基础等
+* 列一些书单，想到再补充。核心以技术类为主，文学为辅。
+  * - [x] 计算机基础等
   * - [x] SQL基础教程
   * - [ ] JavaScript 高程及设计模式 第一季度核心阅读内容
+  * - [ ] 算法与数据结构
   * …
 
 </details>
