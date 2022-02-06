@@ -1,4 +1,3 @@
-
 # Reading-List &middot; [![](https://img.shields.io/badge/books-@read-orange.svg)](https://github.com/kyriejoshua/readling-list) [![](https://img.shields.io/badge/origin-@douban-brightgreen.svg)](https://www.douban.com/)
 
 > The books I have read.
@@ -22,7 +21,25 @@
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
+2.[《潮骚》](https://book.douban.com/subject/35365849/) - 2022.01.27 [@三岛由纪夫](https://book.douban.com/author/4508171/)
+<div><img align="left" width="135" src='https://img9.doubanio.com/view/subject/s/public/s33832854.jpg'/>第一次尝试梳理人物关系图。</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![](/2022/《潮骚》人物关系图手写.jpg)
+
+* 部分摘录。
+
+ > 海，就是他们生息的场所。这里虽然没有起伏的稻穗和麦浪，但却有变幻不定的银波碧涛，在这片柔土般的领地上漂流翻卷。
+ >
+ > 看了这对乳房的女人不会再怀疑，因为这绝不是男人饱享过的乳房。这对乳房犹如蓓蕾初绽，一旦盛开，那胸脯该是多么迷人啊。 156 十二
 
 ### 技术
 <hr/>
@@ -39,10 +56,9 @@
 <hr/>
 
 <details>
-<summary>2021 阅读计划</summary>
+<summary>2022 阅读计划</summary>
 
 * 列一些书单，想到再补充。核心以技术类为主，文学为辅。
-  * - [x] 计算机基础等
   * - [ ] JavaScript 高程及设计模式 第一季度核心阅读内容
   * - [ ] 算法与数据结构
   * …
