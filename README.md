@@ -93,15 +93,15 @@ class 十吉 {
 <br/>
 <br/>
 <br/>
+<br/>
 
 ```mermaid
 classDiagram
-direction TB
 Ashenden <|--|> RosieDriffield : 情人
 Ashenden <--> AlroyKiel : 好友
 Ashenden <--> EdwardDriffield : 好友
 Ashenden <--> LordGeorgeKemp : 朋友
-%% Ashenden .. MaryAnn : 家里女仆
+Ashenden .. MaryAnn : 家里女仆
 RosieDriffield *--* EdwardDriffield : 前任夫妻
 EdwardDriffield <--> ButtonTrafford : 朋友
 RosieDriffield --> ButtonTrafford : 并不太喜欢
