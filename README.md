@@ -23,7 +23,6 @@
 
 2.[《潮骚》](https://book.douban.com/subject/35365849/) - 2022.01.27 [@三岛由纪夫](https://book.douban.com/author/4508171/)
 <div><img align="left" width="135" src='https://img9.doubanio.com/view/subject/s/public/s33832854.jpg'/>第一次尝试梳理人物关系图。我尝试过使用备忘录和思维导图，还有前端图表库，只是呈现的方式我都并不十分满意。于是在找到合适的方式记录之前，我先试着用笔梳理人物关系。因为这是一部中篇小说，篇幅不大，寥寥七万字而已，因而里面的人物关系也并不复杂。我先试着用笔记录，尽管丑陋了些，但自己倒也印象更深刻些。<hr/>2022.02.05 更新<br/>目前确认可以使用 <b>mermaid</b> 的类图来绘制人物关系，效果如下所示。</div>
-<br/>
 
 ```mermaid
 classDiagram
@@ -95,6 +94,103 @@ class 十吉 {
 <br/>
 <br/>
 
+```mermaid
+classDiagram
+direction TB
+Ashenden <|--|> RosieDriffield : 情人
+Ashenden <--> AlroyKiel : 好友
+Ashenden <--> EdwardDriffield : 好友
+Ashenden <--> LordGeorgeKemp : 朋友
+%% Ashenden .. MaryAnn : 家里女仆
+RosieDriffield *--* EdwardDriffield : 前任夫妻
+EdwardDriffield <--> ButtonTrafford : 朋友
+RosieDriffield --> ButtonTrafford : 并不太喜欢
+RosieDriffield *--* LordGeorgeKemp : 真心相爱
+RosieDriffield <..> MaryAnn : 旧时伙伴
+EdwardDriffield *--* AmyDriffield : 第二段婚姻
+Ashenden *..* Uncle : 叔侄
+Ashenden <--> MrsHudson : 朋友
+Ashenden <..> ButtonTrafford : 互相认识
+Ashenden <..> AllgoodNewton : 互相认识
+RosieDriffield <--> QuentinFord : 暧昧
+RosieDriffield <--> LionelHillier : 暧昧
+RosieDriffield <--> HarryRetford : 暧昧
+RosieDriffield <--> JackKepper : 暧昧
+%% EdwardDriffield <.. Uncle : 并不太喜欢
+Uncle ..> EdwardDriffield : 并不太喜欢
+ButtonTrafford <--> AllgoodNewton : 朋友
+%% EdwardDriffield <--> AllgoodNewton : 朋友
+%% AllgoodNewton <--> EdwardDriffield : 朋友
+AlroyKiel ..> EdwardDriffield : 为其写自传
+%% LionelHillier <--> HarryRetford
+%% QuentinFord -- HarryRetford
+
+class Ashenden {
+    <<作者自己>>
+    为女主痴迷一生
+}
+class RosieDriffield {
+    <<女主>>
+    美丽动人
+    心思纯粹
+    淳朴天真
+    晶莹澄澈
+}
+class EdwardDriffield {
+    <<知名作家>>
+    出身平凡
+    成就卓越
+}
+class AlroyKiel {
+    <<文学新星>>
+    坦诚热情
+    谦虚豁达
+}
+class ButtonTrafford {
+    <<文学爱好者>>
+    作家的经理人
+}
+class LordGeorgeKemp {
+    <<煤炭商人>>
+    身材壮实
+    大大咧咧
+}
+class AmyDriffield {
+    <<护士>>
+    思想简单
+    深爱丈夫
+}
+class MrsHudson {
+    <<房东太太>>
+    善良
+}
+class MaryAnn {
+    <<女仆>>
+}
+class QuentinFord {
+    帅气伙子
+}
+class LionelHillier {
+    有一些艺术气质
+}
+class HarryRetford {
+    风趣幽默
+}
+class JackKepper {
+    <<犹太商人>>
+    极度有钱
+}
+class Uncle {
+    <<牧师>>
+    出身良好
+    思维陈旧
+    胆小懦弱
+}
+class AllgoodNewton {
+    爱德华的朋友
+}
+```
+
 * 部分摘录。
 
   > 他笔下的恶棍总是那么邪恶，他笔下的英雄总是那么高尚，他笔下的少女总是那么贞洁。 015
@@ -122,6 +218,7 @@ class 十吉 {
   > 对于永恒的心灵而言，一个人一生的痛苦和奋斗只不过是个笑话而已。 258
   >
   > 我就思考起作家的生活来。那真是饱经忧患。开始的时候，他必须忍受贫困和世人的冷漠；等到取得了一些成就，他必须神色欣然地应付任何意想不到的情形。他的成败有赖于喜怒无常的公众。他得听凭所有下面这些人的摆布：记者们采访他，摄影师要为他照相，编辑催他交稿，税务官催他交所得税，身份高贵的人请他去吃午饭，协会秘书请他去演讲；有的女人想嫁给他，有的女人要和他离婚；年轻人要他的亲笔签名，演员要求在他的戏里扮演角色，素不相识的人问他借钱，感情冲动的女士征求他关于婚姻方面的意见，态度认真的年轻人要他指点他们写作，还有经纪人、出版商、经理、令他厌烦的仰慕他的人、评论家以及他自己的良心。可是他可以得到一种补偿。无论何时，只要他心里有什么事情，不管是令他心神不安的某种想法，好友亡故的哀痛，得不到回应的相思，受到伤害的自尊心，还是对一个他曾好心相待的友人背信弃义的愤怒，总之，只要心中产生一种激情或一种令他困惑不解的想法，他只需要把它写成白纸黑字，用它作为一个故事的主题，或是一篇散文的点缀，好最终把它彻底忘却。他是唯一自由的人。 276
+
 
 ### 技术
 <hr/>
