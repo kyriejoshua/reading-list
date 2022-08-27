@@ -231,8 +231,9 @@ class AllgoodNewton {
 <br/>
 <br/>
 <br/>
+<br/>
 
-- [x]  章节 8 已阅读。[记录](https://github.com/kyriejoshua/javascript-study/blob/master/lib/Professional-JavascriptV4/part9.js)
+- [x]  章节 8 已阅读。[记录](https://github.com/kyriejoshua/javascript-study/blob/master/lib/Professional-JavascriptV4/part9.js) - 2022.08
 
 <hr/>
 
