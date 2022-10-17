@@ -218,10 +218,12 @@ class AllgoodNewton {
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
-
-5. [《如何阅读一本书》](https://book.douban.com/subject/1013208/) - 2022.09.30
+5.[《如何阅读一本书》](https://book.douban.com/subject/1013208/) - 2022.09.30
 <div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s1670978.jpg'/>TODO: 嗯，总得写点什么，但暂时还没有想好</div>
+<br/>
 
 ![](/2022/《如何阅读一本书》/MindMap.png)
 * [整理的大纲笔记（文字版）](https://github.com/kyriejoshua/reading-list/blob/master/2022/%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B/%E3%80%8A%E5%A6%82%E4%BD%95%E9%98%85%E8%AF%BB%E4%B8%80%E6%9C%AC%E4%B9%A6%E3%80%8B%E5%A4%A7%E7%BA%B2%E7%AC%94%E8%AE%B0.md)
