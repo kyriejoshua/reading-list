@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "5b404e80de89ee06",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea6ea00b91a2d51c",
+        "type": "split",
+        "dimension": 51.19047619047619,
+        "children": [
+          {
+            "id": "be0f583e722cbfde",
+            "type": "tabs",
+            "dimension": 74.76568132660418,
+            "children": [
+              {
+                "id": "9996eee528643e52",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0d1b5254dbb35e80",
+            "type": "tabs",
+            "dimension": 25.234318673395816,
+            "children": [
+              {
+                "id": "b04ac947ebabdde6",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "9bd88adaba630a5f",
+        "type": "tabs",
+        "dimension": 48.80952380952381,
+        "children": [
+          {
+            "id": "b1255b3912b9c359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/《如何阅读一本书》/《如何阅读一本书》章节练习记录.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f859ef2f5eec75db",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca306e52d2187d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2439816e34986aae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "533026686501101d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "074c97b2e6cc6273",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "90d34997ba4813d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "426fb4e11da73486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "911f152d65325390",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f13edc5d49f290f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6935f71d582e8d9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dfa8dd650717277",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9996eee528643e52",
+  "lastOpenFiles": [
+    "2022/《如何阅读一本书》/MindMap.jpg",
+    "2022/《如何阅读一本书》/MindMap.png",
+    "2022/《如何阅读一本书》/《如何阅读一本书》大纲笔记.md",
+    "README.md",
+    "2022/《如何阅读一本书》/《如何阅读一本书》章节练习记录.md"
+  ]
+}
