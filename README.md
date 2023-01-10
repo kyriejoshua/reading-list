@@ -17,7 +17,7 @@
 ### 文学
 <hr/>
 
-1.[《孙子兵法》](https://book.douban.com/subject/3985971/) - 2022.01.09 [@孙子](https://book.douban.com/author/4559301/)
+1.[《孙子兵法》](https://book.douban.com/subject/3985971/) - 2023.01.08 [@孙子](https://book.douban.com/author/4559301/)
 <div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s6062438.jpg'/>孙子确实有着远远超出他那个时代的远见和谋略。</div>
 <br/>
 <br/>
