@@ -18,7 +18,7 @@
 <hr/>
 
 ##### 1.[《孙子兵法》](https://book.douban.com/subject/3985971/) - 2023.01.08 [@孙子](https://book.douban.com/author/4559301/)
-<div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s6062438.jpg'/>孙子确实有着远远超出他那个时代的远见和谋略。</div>
+<div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s6062438.jpg'/><div>RATE: ★★★☆☆</div>孙子确实有着远远超出他那个时代的远见和谋略。</div>
 <br/>
 <br/>
 <br/>
@@ -26,7 +26,7 @@
 <br/>
 
 ##### 2.[《永恒的终结》](https://book.douban.com/subject/25829693/) - 2023.01.14 [@[美] 艾萨克·阿西莫夫](https://book.douban.com/author/4556848)
-<div><img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s27409671.jpg'/>比起它收到的赞誉，它给我的震撼不及那么多。期待有改编得更好的影视作品。</div>
+<div><img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s27409671.jpg'/><div>RATE: ★★★★☆</div>比起它收到的赞誉，它给我的震撼不及那么多。期待有改编得更好的影视作品。</div>
 <br/>
 <br/>
 <br/>
@@ -74,10 +74,11 @@ class Aaron {
 ```
 
 ##### 3.[《当我们不再理解世界》](https://book.douban.com/subject/36073906/) - 2023.01.31  [@[智利]本哈明·拉巴图特](https://book.douban.com/author/4616529/)
-<div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s34295659.jpg'/><div>★★★★☆</div><div>本书的文体随意杂糅，像是作者出于自己的想象，对史实进行戏剧化地续写，使其对应的人物事迹更富传奇色彩。</div>
+<div><img align="left" width="135" src='https://img1.doubanio.com/view/subject/s/public/s34295659.jpg'/><div>RATE: ★★★★☆</div><div>本书的文体随意杂糅，像是作者出于自己的想象，对史实进行戏剧化地续写，使其对应的人物事迹更富传奇色彩。</div>
 <div>所有的篇章里，提到的每一位人物都是历史上名副其实的传奇。在某些篇章中，数位天才的交锋，激发出各自的潜力，创造出一个又一个的学术奇迹，引领着一个又一个时代的进步。又有一些篇章中，伟大的天才引领了人们，但也因无人能赏识自己的才华，或崩溃、或疯狂，最终留下在那个时代让人不得而知的世界难题。如书中所言，那些天才们，似乎是来加速人类智力的进化、文明的进步的。虽然有些传奇的评价褒贬不一，但整体而言，他们无疑对人类的发展做出了巨大贡献，值得后人为其记录续写。</div>
 <div>这些故事中精湛的细节描写和细腻的心理活动，因其基于历史，也显得格外真实。整体的叙述则虽平实却饱满富有张力，如同娓娓道来，最终引人入胜，值得反复回味。</div>
 </div>
+<br/>
 
 * 部分摘录
 
