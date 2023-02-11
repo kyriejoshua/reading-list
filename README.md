@@ -55,9 +55,11 @@ class Noe {
 class Thesel {
     高级计算师
     长者、极具威望
+    暴躁古怪
 }
 class Fitch {
     计算师
+    阴险却手段拙劣
 }
 class Cooper {
 	时空技师新手
@@ -67,7 +69,7 @@ class Voy {
 	社会学家
 }
 class Aaron {
-	老师
+	主角的导师
 }
 ```
 
