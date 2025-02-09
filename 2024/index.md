@@ -17,7 +17,7 @@
 
 #### 1.[《愿你顺风顺水，自成山海》](https://book.douban.com/subject/36967143/) - 2024.08.11
 <div>
-	<img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s34910411.jpg'/><div>RATE: ★★★☆☆</div>第一次收到赠书，但无疑就是快餐销量书。和短视频一样有着它自己的受众。</div>
+	<img align="left" width="135" src='https://img2.doubanio.com/view/subject/s/public/s34910411.jpg'/><div>RATE: ★★✰☆☆</div>第一次收到赠书，但无疑就是快餐销量书。和短视频一样有着它自己的受众。</div>
 <br/>
 <br/>
 <br/>
@@ -28,14 +28,12 @@
 
 #### 2.[《叫我自己親愛的》](https://book.douban.com/subject/26841081/) - 2024.11.28 [@[美]瑞蒙·卡佛](https://book.douban.com/search/%E7%91%9E%E8%92%99%C2%B7%E5%8D%A1%E4%BD%9B)
 <div>
-	<img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s28958752.jpg'/><div>RATE: ★★★☆☆</div>这本书收录了卡佛的各类杂文选集，内容一贯是卡佛的风格。不管是散文、书评或是引言杂谈，“卡佛式”的风格贯穿始终。本书大概读了两遍，繁体配合竖排的文本，读起来慢吞吞，没有读出什么名堂来，读完也没有什么特别的话想说，值得摘录的句子倒是多多少少记下了一些。令我意外的是这一本台湾出版的书，我是在香港书店买到的，而且进行了重新定价。但不论是香港的书价还是台湾的书价，都比内地的价格高许多。
+	<img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s28958752.jpg'/><div>RATE: ★★★✰☆</div>这本书收录了卡佛的各类杂文选集，内容一贯是卡佛的风格。不管是散文、书评或是引言杂谈，“卡佛式”的风格贯穿始终。本书大概读了两遍，繁体配合竖排的文本，读起来慢吞吞，没有读出什么名堂来，读完也没有什么特别的话想说，值得摘录的句子倒是多多少少记下了一些。令我意外的是这一本台湾出版的书，我是在香港书店买到的，而且进行了重新定价。但不论是香港的书价还是台湾的书价，都比内地的价格高许多。
 </div>
 <br/>
 <br/>
 <br/>
 <br/>
-<br/>
-
 ##### 部分摘录
 
 > 《父亲的一生》 章节 37 页
