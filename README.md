@@ -30,11 +30,10 @@
 
 #### 2.[《卡夫卡的朋友》](https://book.douban.com/subject/36150857/) - 2025.04.12 [[美] 艾萨克·巴什维斯·辛格](https://www.douban.com/personage/30118277/)
 <div>
-	<img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s34392833.jpg'/><div>RATE: ★★★✰☆</div>
+	<img align="left" width="135" src='https://img3.doubanio.com/view/subject/s/public/s34544224.jpg'/><div>RATE: ★★★✰☆</div>
 	<br/>
 	<div>缺少完备的犹太历史背景的知识下，强行读完这本，觉得不免有点突兀；一个深深的体会是，他们所奉行的信仰，限制了许多他们的行为。也许在今天需要做什么，过几天再必须做什么。每一天都充满仪式感，每个人不约而同的做同一件事，习以为常。虽然这本书里有很多短篇，但没有特别让我印象深刻的。当然在很多篇幅里，透露了作者对信仰的思考，甚至质疑，这些是能感受到的。反而是这些质疑下的思考，更让人感兴趣。
 </div>
-	<br/>
 	<br/>
 	<br/>
 </div>
